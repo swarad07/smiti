@@ -12,7 +12,6 @@ body {
     rgba(255, 254, 234, 1) 35%,
     #b7e8eb 100%
   );
-  overflow: hidden;
   font-family: 'Noto Sans';
 }
 
